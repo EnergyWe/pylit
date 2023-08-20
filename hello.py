@@ -173,7 +173,7 @@ def data_frame_demo():
         """
         This demo shows how to use `st.write` to visualize Pandas DataFrames.
 
-(Data courtesy of the [UN Data Explorer](http://data.un.org/Explorer.aspx).)
+(Data courtesy of the [UN Data Explorer](https://www.notion.so/Python-for-this-class-0f6b4a1d02be4db090a9d8bc97f45d6d?pvs=4).) 
 """
     )
 
